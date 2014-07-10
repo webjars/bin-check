@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bin-check</artifactId>
-    <version>0.1.5-1</version>
+    <version>0.1.6-SNAPSHOT</version>
     <name>bin-check</name>
     <description>WebJar for bin-check</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/bin-check</url>
         <connection>scm:git:https://github.com/webjars/bin-check.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bin-check.git</developerConnection>
-        <tag>bin-check-0.1.5-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
